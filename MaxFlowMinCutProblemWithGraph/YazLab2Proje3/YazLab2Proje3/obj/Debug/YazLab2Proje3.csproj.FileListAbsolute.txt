@@ -1,0 +1,33 @@
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.exe.config
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.exe
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.pdb
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\AutomaticGraphLayout.dll
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\AutomaticGraphLayout.Drawing.dll
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csprojAssemblyReference.cache
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Form1.resources
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Form2.resources
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Properties.Resources.resources
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csproj.GenerateResource.cache
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csproj.CopyComplete
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.exe
+D:\HARUN\2019-2020 KOCAELİ ÜNİVERSİTESİ 2.DÖNEM\Yazılım Laboratuvarı - II\Yazılım Laboratuvarı II - 3.Proje\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.pdb
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.exe.config
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.exe
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\YazLab2Proje3.pdb
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Form1.resources
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Form2.resources
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.Properties.Resources.resources
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.csproj.CopyComplete
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.exe
+C:\Users\Ömer\Desktop\YazLab2Proje3\YazLab2Proje3\obj\Debug\YazLab2Proje3.pdb
